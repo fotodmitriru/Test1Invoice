@@ -1,0 +1,7 @@
+E:\Программы\VS2017\TestsSherif\Test1Invoice\Test1Invoice\bin\Debug\Test1Invoice.exe.config
+E:\Программы\VS2017\TestsSherif\Test1Invoice\Test1Invoice\bin\Debug\Test1Invoice.exe
+E:\Программы\VS2017\TestsSherif\Test1Invoice\Test1Invoice\bin\Debug\Test1Invoice.pdb
+E:\Программы\VS2017\TestsSherif\Test1Invoice\Test1Invoice\obj\Debug\Test1Invoice.csprojAssemblyReference.cache
+E:\Программы\VS2017\TestsSherif\Test1Invoice\Test1Invoice\obj\Debug\Test1Invoice.csproj.CoreCompileInputs.cache
+E:\Программы\VS2017\TestsSherif\Test1Invoice\Test1Invoice\obj\Debug\Test1Invoice.exe
+E:\Программы\VS2017\TestsSherif\Test1Invoice\Test1Invoice\obj\Debug\Test1Invoice.pdb
